@@ -1,4 +1,7 @@
 DEMO LINK -- https://nxtwatchanirudh.ccbp.tech/login
+username - rahul
+password -rahul@2021
+
 
 In this project, let's build **Nxt Watch** by applying the concepts we have learned till now.
 
